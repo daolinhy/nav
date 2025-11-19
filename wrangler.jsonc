@@ -1,0 +1,7 @@
+{
+    "name": "nav",
+    "compatibility_date": "2022-07-15",
+    "assets":{
+        "directory":"./dist/browser"
+    }
+}
