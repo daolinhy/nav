@@ -423,11 +423,15 @@ const main = async () => {
     settings.superTitle ||= ''
     const defImgs = [
       {
-        src: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/nav-1717494364392-ad.jpg',
-        url: 'https://haokawx.lot-ml.com/Product/index/454266',
+        src: 'https://inav.710515.xyz/image/ma/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251120012708_57_17.jpg',
+        url: '',
       },
       {
-        src: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/10.png',
+        src: 'https://inav.710515.xyz/image/ma/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251120012859_58_17.png',
+        url: '',
+      },
+      {
+        src: 'https://inav.710515.xyz/image/ma/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251120013110_59_17.jpg',
         url: '',
       },
     ]
