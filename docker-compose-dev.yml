@@ -1,0 +1,17 @@
+services:
+  nav:
+    image: daolin/devnode
+    container_name: nav
+    ports:
+      - 7001:7001
+    volumes:
+      - ./:/app
+    environment:
+      - TZ=Asia/Shanghai
+    # command: [ "npm","install"]
+    command: [ "tail", "-f", "/dev/null" ]
+    # command: [ "npm", "run", "build" ]
+networks:
+  default:
+    external: true
+    name: web
