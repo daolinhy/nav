@@ -1,6 +1,6 @@
 {
-    "name": "nav",
-    "compatibility_date": "2022-07-15",
+    "name": "hynav",
+    "compatibility_date": "2025-07-15",
     "assets":{
         "directory":"./dist/browser"
     }
